@@ -42,3 +42,10 @@ function multiply(a, b){
 
 * **University:** Saint Petersburg University of Service and Economics, Art and Crafts.
 * **Courses:** [Scrimba. The Frontend Developer Career Path.](https://scrimba.com/)
+
+
+
+## **Languages**
+
+* **Russian:** native speaker
+* **English:** A2 
