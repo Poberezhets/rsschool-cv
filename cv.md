@@ -25,3 +25,12 @@ Hello! I am Jane. I worked as a graphic designer. Now I am begining to learn Jav
 
 
 
+## **Code Example**
+
+```
+function multiply(a, b){
+    return a * b
+}
+```
+
+
