@@ -34,3 +34,11 @@ function multiply(a, b){
 ```
 
 
+## **Experience**
+
+
+
+## **Education**
+
+* **University:** Saint Petersburg University of Service and Economics, Art and Crafts.
+* **Courses:** [Scrimba. The Frontend Developer Career Path.](https://scrimba.com/)
