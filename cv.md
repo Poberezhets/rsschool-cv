@@ -36,6 +36,8 @@ function multiply(a, b){
 
 ## **Experience**
 
+[Проект CV](https://Poberezhets.github.io/rsschool-cv/cv)
+
 
 
 ## **Education**
